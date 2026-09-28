@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 "Building my coding journey with Programming Hero" || AI-Driven Full Stack Web Engineer || Physicist || Constantly evolving with JavaScript.
- 
+
 
 ---
 
@@ -39,7 +39,6 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="48" height="48" alt="Express.js" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" width="48" height="48" alt="MongoDB" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/API.svg" width="48" height="48" alt="REST API" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JWT.svg" width="48" height="48" alt="JWT" />
 </p>
 
 ### **AI-Assisted Coding**
